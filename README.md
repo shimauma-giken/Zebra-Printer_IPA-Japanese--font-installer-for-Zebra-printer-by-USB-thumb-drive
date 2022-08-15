@@ -12,8 +12,8 @@ Following the guides below to install IPA Mincho and Gothic fonts to Zebra print
 2. Download "Zebra folder" and copy it to root of USB flash drive. 
 3. Insert USB flash drive to printer. Install process should start and reboot the printer. 
 4. Send "print_ipa.zpl" to the printer. It should print 2 types of Japanese font, Mincho and Gothic, printed as below.
-   IPA Gothic 日本語
-   IPA Mincho 日本語
+   - IPA Gothic 日本語
+   - IPA Mincho 日本語
    
    --------
    
