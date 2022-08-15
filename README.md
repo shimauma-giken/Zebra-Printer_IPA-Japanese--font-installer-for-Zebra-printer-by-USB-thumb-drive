@@ -14,10 +14,12 @@ Following the guides below to install IPA Mincho and Gothic fonts to Zebra print
 4. Send "print_ipa.zpl" to the printer. It should print 2 types of Japanese font, Mincho and Gothic, printed as below.
    - IPA Gothic 日本語
    - IPA Mincho 日本語
-   
+
+* Please note that installed fonts will be only supported by ZPL. 
+
    --------
    
- # ゼブラプリンタにIPA 明朝とゴシックをインストールするガイド
+ # ゼブラプリンタにIPA 明朝とゴシックフォントをインストールするガイド
    
  # 用意すべきもの
  - Zebra プリンタ、USBメモリに対応したもの
