@@ -26,7 +26,7 @@ Following the guides below to install IPA Mincho and Gothic fonts to Zebra print
  - USBメモリ
  
  # インストール手順
- 1. USBメモリをFat32形式でフォーマットする
+ 1. USBメモリをFat32形式でフォーマットする。
  2. Zebra フォルダをダウンロードする。解凍が必要であれば解凍する。Zebra フォルダをUSBメモリのルートディレクトリにコピーする。
  3. USBメモリをプリンタに挿す。ミラー処理が開始し、プリンタは再起動する。
  4. "print_ipa.zpl" をプリンタに送付する。IPA 明朝とゴシックが印刷される。
