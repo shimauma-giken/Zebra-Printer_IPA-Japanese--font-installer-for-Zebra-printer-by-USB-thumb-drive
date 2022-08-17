@@ -19,7 +19,7 @@ Following the guides below to install IPA Mincho and Gothic fonts to Zebra print
 
    --------
    
- # ゼブラプリンタにIPA 明朝とゴシックフォントをインストールするガイド
+ # ゼブラプリンタにIPA 明朝/ゴシックフォントをインストールする方法
    
  # 用意すべきもの
  - Zebra プリンタ、USBメモリに対応したもの
