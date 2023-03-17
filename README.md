@@ -32,7 +32,7 @@
  　　https://www.zebra.com/jp/ja/support-downloads/printer-software/zebranet-bridge-enterprise.html  
  2. IPA Font*をダウンロードする。 
  <pre>
-    * TTF形式のフォントのみサポートしています。
+    * TTF形式のフォントのみサポートしています。(拡張子がTTFでも、TTF形式でないフォントが存在します）
     * 3rd パーティ製フォントのご利用はZebra社のサポート対象外となりますので、動作検証の上でご利用ください。
  </pre>
  3. 「ZNBを起動 > ツール > フォントウィザード」を実行し、フォントインストーラを作成する。
