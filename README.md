@@ -44,8 +44,11 @@ Following the guides below to install IPA Mincho and Gothic fonts to Zebra print
  # インストール手順 (IPA Gothicの場合）  
  1. ZebraNet Bridge for Enterprise(以下ZNB)をダウンロードし、Windows PCにインストールする。  
  　　https://www.zebra.com/jp/ja/support-downloads/printer-software/zebranet-bridge-enterprise.html  
- 2. IPA Font*をダウンロードする。  
+ 2. IPA Font*をダウンロードする。 
+ <pre>
     * TTF形式のフォントのみサポートしています。
+    * 3rd パーティ製フォントのご利用はZebra社のサポート対象外となりますので、動作検証の上でご利用ください。  
+ </pre>
  3. 「ZNBを起動 > ツール > フォントウィザード」を実行し、フォントインストーラを作成する。
  　　
  　　![image](https://user-images.githubusercontent.com/111269302/225861512-4cc75e1e-fc56-4416-aa0e-a0aca64b9c06.png)
