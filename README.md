@@ -1,24 +1,4 @@
-## Zebra-Printer_IPA-Japanese--font-installer-for-Zebra-printer-by-USB-thumb-drive
-IPA font installer for Zebra printer by USB thumb drive.
-
-Following the guides below to install IPA Mincho and Gothic fonts to Zebra printer and print sample label. 
-
-## What you will need
-- Zebra printer which can insert USB flash drive.
-- USB flash drive 
-
-## How to guides
-1. Format USB flash drives with FAT32.
-2. Download "Zebra folder" and copy it to root of USB flash drive. 
-3. Insert USB flash drive to printer. Install process should start and reboot the printer. 
-4. Send "print_ipa.zpl" to the printer. It should print 2 types of Japanese font, Mincho and Gothic, printed as below.
-   - IPA Gothic 日本語
-   - IPA Mincho 日本語
-
-* Please note that installed fonts will be only supported by ZPL. 
-
-   --------
-   
+ 
  ## ゼブラプリンタにIPA 明朝/ゴシックフォントをインストールする方法 (USB-Mirrorを利用)  
    
  ## 用意すべきもの
@@ -30,9 +10,8 @@ Following the guides below to install IPA Mincho and Gothic fonts to Zebra print
  1. USBメモリをFat32形式でフォーマットする。
  2. Zebra フォルダをダウンロードする（※１）。解凍が必要であれば解凍する。Zebra フォルダをUSBメモリのルートディレクトリにコピーする。
  3. USBメモリをプリンタに挿す。ミラー処理が開始し、プリンタは再起動する。
- 4. "print_ipa.zpl" をプリンタに送付する。IPA 明朝とゴシックが印刷される。
+ 5. テスト印字をし、IPA Gothicの印刷を確認する。  
  
- ※１、本画面の右上「Code▼」→ 「Download ZIP」を選択  
      
    
    --------
@@ -63,7 +42,5 @@ Following the guides below to install IPA Mincho and Gothic fonts to Zebra print
    * 詳細は下記リンクを参照すること。  
    https://support.zebra.com/cpws/docs/inquira/attachments/SO8535.pdf  
 
- 4. 作成した"xxxxx.zpl" をプリンタに送付する。
- 5. テスト印字をし、IPA Gothicの印刷を確認する。
- 
- ※１、本画面の右上「Code▼」→ 「Download ZIP」を選択
+ 4. PC上に作成された"xxxxx.zpl" をプリンタにZSU等を利用してファイル送信する。
+ 5. テスト印字をし、IPA Gothicの印刷を確認する。  
